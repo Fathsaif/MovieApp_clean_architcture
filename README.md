@@ -1,4 +1,4 @@
-Android-Technical Assignment by Baraka
+
 =========================
 
 

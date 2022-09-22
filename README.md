@@ -4,7 +4,7 @@
 
 Introduction
 -----------------
-This is a sample task shows stock market tickers written by kotlin using the Uncle Bob's clean architecture approach.
+This is a sample task shows movies written by kotlin using the Uncle Bob's clean architecture approach.
 This project takes advantage of latest Jetpack Architecture Component libraries and tools of the Android ecosystem.
 
 
